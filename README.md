@@ -2,7 +2,7 @@
 
 # PRAKTIKUM PEMROGRAMAN WEB
 
-## Praktikum Pertemuan 10
+## Praktikum Pertemuan 11
 
 Praktikum dilakukan dengan modul praktikum yang sudah disediakan.
 
